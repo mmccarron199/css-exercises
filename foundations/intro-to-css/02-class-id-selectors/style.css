@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+p {
+    background-color: lightcoral;
+    font-family: Verdana, sans-serif; 
+}
+
+.Number3 {
+    font-size: 24px;
+}
+
+.Number2 {
+    color: blue;
+    background-color: transparent;
+    font-size: 36px;
+}
+
+#Number4 {
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
